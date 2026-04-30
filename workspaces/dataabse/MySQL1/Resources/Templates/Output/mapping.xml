@@ -1,0 +1,12 @@
+<!--
+NOTE: The following attributes can be included in the table XML:
+selectQuery="SELECT * FROM XXX" - This can be used to specify a custom query to execute for this mapping.
+skipProcessedRows="true" - When true, the application will only process rows one time.
+-->
+
+<Items>
+    <test_export table="`test_export`" selectQuery="SELECT * FROM `test_export`">
+        <id type="integer" key="true" />
+        <name />
+    </test_export>
+</Items>
