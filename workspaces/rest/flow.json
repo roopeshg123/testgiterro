@@ -1,0 +1,1 @@
+{"version":2,"ports":[{"connectorId":"REST1","connectorType":"RESTV2","nodes":[{"style":"sender","posX":613,"posY":298,"width":295}],"connections":[]}],"views":[{"name":"Default","zoom":1,"zoomOrigin":"50% 50%","posX":0,"posY":0,"snapshot":""}],"apis":[],"notes":[],"snapshot":{"file":"file:\/\/flow.png"}}
