@@ -1,1 +1,1 @@
-{"version":2,"ports":[{"connectorId":"JSON1","connectorType":"JSON","nodes":[{"posX":2752,"posY":275,"width":295}],"connections":[]},{"connectorId":"REST1","connectorType":"RESTV2","nodes":[{"style":"sender","posX":2090,"posY":219,"width":320}],"connections":[]}],"views":[],"apis":[],"notes":[],"snapshot":{"file":"file:\/\/flow.png"}}
+{"version":2,"ports":[],"views":[],"apis":[],"notes":[],"snapshot":{"file":"file:\/\/flow.png"}}
